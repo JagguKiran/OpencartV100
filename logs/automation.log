@@ -1,0 +1,4 @@
+18:08:51.0845 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+18:08:51.0854 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+18:08:52.0880 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+18:08:53.0133 [main] INFO  testCases.TC101_LoginTest - Quiting Browser

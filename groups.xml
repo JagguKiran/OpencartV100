@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">	
+  <groups>
+  	<run>
+  		<include name="Master"></include>
+  		<exclude name="Regression"></exclude>
+  		<exclude name="DataDriven"></exclude>
+  	</run>
+  </groups>
+  <test name="Test">
+  	<parameter name="browser" value="chrome"/>
+  	<parameter name="operatingSystem" value="windows"/>
+    <classes>
+      <class name="testCases.TC102_LoginDataDrivenTest"/>
+      <class name="testCases.TC101_LoginTest"/>
+      <class name="testCases.TC100_AccountRegisterTest"/>
+    </classes>
+  </test>
+   <listeners>
+  		<listener class-name="utilities.ExtentReportManager"></listener>
+  </listeners>
+</suite> 

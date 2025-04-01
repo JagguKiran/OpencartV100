@@ -1,0 +1,62 @@
+20:01:57.0848 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+20:01:58.0495 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+20:01:58.0672 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+20:01:58.0673 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+20:01:59.0511 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+20:01:59.0536 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+20:02:43.0113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+20:02:47.0850 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+20:02:47.0855 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+20:02:49.0544 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+20:02:49.0577 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+20:02:49.0578 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+20:02:50.0153 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+20:02:50.0354 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+20:02:50.0355 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+20:02:51.0201 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+20:02:51.0228 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+20:08:19.0149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\testng.xml
+
+20:08:25.0188 [main] INFO  testCases.TC102_LoginDataDrivenTest - Deleted All Cookies
+20:08:25.0195 [main] INFO  testCases.TC102_LoginDataDrivenTest - Provided Implicit Wait
+20:08:26.0608 [main] INFO  testCases.TC102_LoginDataDrivenTest - Maximize the window
+20:08:31.0320 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+20:08:31.0321 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+20:08:31.0835 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+20:08:32.0086 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmps@gmail.com
+20:08:32.0086 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran123
+20:08:33.0456 [main] INFO  testCases.TC102_LoginDataDrivenTest - Positive Validation->Valid Credentials
+20:08:33.0476 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+20:08:33.0477 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+20:08:33.0855 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+20:08:34.0018 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmps@gmail.com
+20:08:34.0019 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran123
+20:08:35.0356 [main] INFO  testCases.TC102_LoginDataDrivenTest - Invalid Credentials
+20:08:35.0406 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+20:08:35.0406 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+20:08:35.0734 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+20:08:35.0900 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmpt@gmail.com
+20:08:35.0901 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran123
+20:08:46.0227 [main] INFO  testCases.TC102_LoginDataDrivenTest - Negative Validation->Invalid Credentials
+20:08:46.0232 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+20:08:46.0232 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+20:08:46.0604 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+20:08:46.0741 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmpt@gmail.com
+20:08:46.0745 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran126
+20:08:57.0105 [main] INFO  testCases.TC102_LoginDataDrivenTest - Status Shouldn't be Valid
+20:08:57.0119 [main] INFO  testCases.TC102_LoginDataDrivenTest - Quiting Browser
+20:09:07.0826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+20:09:12.0461 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+20:09:12.0475 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+20:09:14.0491 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+20:09:14.0521 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+20:09:14.0521 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+20:09:15.0048 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+20:09:15.0300 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmpt@gmail.com
+20:09:15.0300 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+20:09:26.0005 [main] INFO  testCases.TC101_LoginTest - Quiting Browser

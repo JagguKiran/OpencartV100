@@ -1,0 +1,74 @@
+16:41:47.0452 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+16:42:32.0875 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+16:42:37.0943 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+16:42:37.0949 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+16:42:39.0760 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+16:42:39.0785 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+16:42:39.0785 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+16:42:40.0611 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+16:42:40.0775 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmpt@gmail.com
+16:42:40.0821 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+16:42:51.0637 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+16:59:57.0603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+17:00:03.0108 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+17:00:03.0117 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+17:00:05.0690 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+17:00:05.0722 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+17:00:05.0723 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+17:00:06.0325 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+17:00:06.0515 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+17:00:06.0516 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+17:00:07.0771 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+17:00:07.0781 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+19:07:32.0220 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+19:07:39.0247 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+19:07:39.0252 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+19:07:41.0441 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+19:07:41.0474 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+19:07:41.0474 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+19:07:41.0976 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+19:07:42.0174 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+19:07:42.0174 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+19:07:43.0091 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+19:07:43.0101 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+19:15:11.0916 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+19:15:16.0199 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+19:15:16.0210 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+19:15:17.0849 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+19:15:17.0877 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+19:15:17.0877 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+19:15:18.0475 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+19:15:18.0634 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+19:15:18.0634 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+19:15:19.0503 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+19:15:19.0647 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+19:18:04.0922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+19:18:08.0834 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+19:18:08.0846 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+19:18:10.0139 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+19:18:10.0169 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+19:18:10.0169 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+19:18:10.0656 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+19:18:10.0838 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+19:18:10.0839 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+19:18:11.0818 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+19:18:11.0845 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+19:19:29.0723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\21Playwright\OpencartV100\groups.xml
+
+19:19:33.0591 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+19:19:33.0598 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+19:19:34.0897 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+19:19:34.0932 [main] INFO  testCases.TC101_LoginTest - Login Test is Started

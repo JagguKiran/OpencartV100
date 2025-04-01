@@ -1,0 +1,58 @@
+10:49:53.0390 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+10:49:53.0417 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+10:49:54.0606 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+10:49:54.0921 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+17:57:39.0012 [main] INFO  testCases.TC102_LoginDataDrivenTest - Deleted All Cookies
+17:57:39.0029 [main] INFO  testCases.TC102_LoginDataDrivenTest - Provided Implicit Wait
+17:57:41.0451 [main] INFO  testCases.TC102_LoginDataDrivenTest - Maximize the window
+17:57:43.0437 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+17:57:43.0437 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+17:57:44.0204 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+17:57:44.0502 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmps@gmail.com
+17:57:44.0502 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran123
+17:57:45.0963 [main] INFO  testCases.TC102_LoginDataDrivenTest - Positive Validation->Valid Credentials
+17:57:45.0975 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+17:57:45.0975 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+17:57:46.0356 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+17:57:46.0494 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmps@gmail.com
+17:57:46.0494 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran123
+17:57:47.0894 [main] INFO  testCases.TC102_LoginDataDrivenTest - Invalid Credentials
+17:57:47.0941 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+17:57:47.0942 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+17:57:48.0420 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+17:57:48.0588 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmpt@gmail.com
+17:57:48.0588 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran123
+17:57:59.0376 [main] INFO  testCases.TC102_LoginDataDrivenTest - Negative Validation->Invalid Credentials
+17:57:59.0381 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Data Driven Test is Started
+17:57:59.0381 [main] INFO  testCases.TC102_LoginDataDrivenTest - Home Page Instantiation
+17:58:00.0202 [main] INFO  testCases.TC102_LoginDataDrivenTest - Login Page Instantiation
+17:58:00.0424 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Email kiran.kiranjmpt@gmail.com
+17:58:00.0424 [main] INFO  testCases.TC102_LoginDataDrivenTest - Providing Password kiran126
+17:58:11.0237 [main] INFO  testCases.TC102_LoginDataDrivenTest - Status Shouldn't be Valid
+17:58:11.0245 [main] INFO  testCases.TC102_LoginDataDrivenTest - Quiting Browser
+17:59:16.0811 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+17:59:16.0819 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+17:59:19.0055 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+17:59:19.0088 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+17:59:19.0088 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+17:59:19.0890 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+17:59:20.0371 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+17:59:20.0372 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+17:59:21.0913 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+17:59:22.0222 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+18:03:26.0515 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+18:03:26.0526 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+18:03:28.0278 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+18:03:28.0304 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+18:03:28.0304 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+18:03:28.0982 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
+18:03:29.0173 [main] INFO  testCases.TC101_LoginTest - Providing Email kiran.kiranjmps@gmail.com
+18:03:29.0174 [main] INFO  testCases.TC101_LoginTest - Providing Password kiran123
+18:03:30.0105 [main] INFO  testCases.TC101_LoginTest - End of Login Test
+18:03:30.0371 [main] INFO  testCases.TC101_LoginTest - Quiting Browser
+18:08:49.0809 [main] INFO  testCases.TC101_LoginTest - Deleted All Cookies
+18:08:49.0822 [main] INFO  testCases.TC101_LoginTest - Provided Implicit Wait
+18:08:51.0085 [main] INFO  testCases.TC101_LoginTest - Maximize the window
+18:08:51.0109 [main] INFO  testCases.TC101_LoginTest - Login Test is Started
+18:08:51.0110 [main] INFO  testCases.TC101_LoginTest - Home Page Instantiation
+18:08:51.0644 [main] INFO  testCases.TC101_LoginTest - Login Page Instantiation
