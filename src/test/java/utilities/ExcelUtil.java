@@ -1,16 +1,12 @@
 package utilities;
-
 import java.io.FileInputStream;
 import java.util.Iterator;
-
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-
 public class ExcelUtil {
 	private Workbook workBook;
 	private String path="./testData/input.xlsx";
@@ -66,19 +62,6 @@ public class ExcelUtil {
 		}
 		return columnNum;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	public Workbook getWorkBook(){
 		FileInputStream fis=null;
 		try {

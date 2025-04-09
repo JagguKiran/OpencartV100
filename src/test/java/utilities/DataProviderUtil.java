@@ -1,11 +1,8 @@
 package utilities;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
 import org.testng.annotations.DataProvider;
-
 public class DataProviderUtil {
 	@DataProvider(name="fetchUserNamePassword")
 	public Iterator<List<String>> fetchUserNamePassword(){
@@ -22,5 +19,9 @@ public class DataProviderUtil {
 			users.add(al);
 		}
 		return users.iterator();
+	}
+	public static void main(String[] args) {
+
+
 	}
 }

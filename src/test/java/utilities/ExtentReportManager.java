@@ -105,9 +105,7 @@ public class ExtentReportManager implements ITestListener {
 			email.setMsg("Please Find Attached Report");
 			email.addTo("kiran.kiranjmps@gmail.com");
 			email.attach(url,"Extent Report","Please Check Report");
-			email.send();
-			
-			
+			email.send();		
 		}catch(Exception e){
 			e.printStackTrace();
 		}
